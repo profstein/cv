@@ -1,7 +1,7 @@
 ---
-title: Bachelor, Graphic Design
-organization: Lorem Arts Academy
-location: Vienna, AT
-start: 2013-04-16
-end: 2013-10-01
+title: BA in Psychology
+organization: Yale University
+location: New Haven, CT
+start: 1991-09-01
+end: 1995-05-15
 ---
