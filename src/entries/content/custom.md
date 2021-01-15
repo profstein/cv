@@ -3,9 +3,10 @@ tags: custom
 title: Interests
 ---
 
-This is custom content. You can add [anything you want](https://www.youtube.com/watch?v=dQw4w9WgXcQ) in here.
+Related and non-related interests
 
-* Reading
-* Punk Rock
-* Climbing
-* Archery
+* Photography
+* Bicycling
+* Soccer
+* Outdoor Activities
+* Woodworking
