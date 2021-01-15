@@ -7,11 +7,11 @@ dl {
 }
 dt, dd {
     display:inline-block;
-    width:20%;
-    width: clamp(50px,75px,20%);
-
+    
 }
 dt {
+    width:20%;
+    width: clamp(50px,75px,20%);
     text-align:left;
     font-weight:bold;
     clear:left;
@@ -23,6 +23,7 @@ dd {
     width: clamp(150px, 60%,80%);
     // padding-left:1em;
     clear:right;
+    padding-bottom: 0;
 }
 dd + dd {
     float:right;
