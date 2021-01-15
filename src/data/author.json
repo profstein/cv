@@ -1,44 +1,63 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
-    "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+    "name": "Christopher Stein",
+    "occupation": "Associate Professor and Chair",
+    "location": "New York, NY",
+    "avatar": "stein.jpg",
+    "pronouns": "he/his",
+    "email": "cstein@bmcc.cuny.edu",
+    "website": "https://openlab.bmcc.cuny.edu/christopher-stein-portfolio/",
+    "software": [
+        "Photoshop",
+        "Lightroom",
+        "Adobe XD",
+        "Premiere",
+        "Flash",
+        "ASP",
+        "Acrobat",
+        "Screenflow",
+        "Camtasia",
+        "Zoom",
+        "Audacity"
     ],
     "languages": [
         {
-            "name": "English",
-            "level": "native"
+            "name": "HTML",
+            "level": "-"
         },
         {
-            "name": "German",
-            "level": "fluent"
+            "name": "CSS, Sass",
+            "level": "-"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "JavaScript",
+            "level": "-"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Php"
+        },
+        {
+            "name": "ActionScript"
+        },
+        {
+            "name": "Lingo"
+        },
+        {
+            "name": "SQL"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@profstein",
+            "url": "https://github.com/profstein"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "Chris Stein",
+            "url": "https://www.linkedin.com/in/steinchris/"
         }
     ]
 }
