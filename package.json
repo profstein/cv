@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxboeck/resume"
+    "url": "https://github.com/profstein/cv"
   },
-  "author": "Max Böck",
+  "author": "Chris Stein",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",
