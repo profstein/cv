@@ -1,9 +1,25 @@
 {
     "titles": {
-        "experience": "Work Experience",
+        "experience": "Professional Experience",
         "education": "Education",
-        "skills": "Skills",
-        "languages": "Languages"
+        "appointments": "Appointments",
+        "teaching": "Teaching Experience",
+        "publications": "Publications and Creative Work",
+        "peer-review": "Peer Reviewed Publications and Creative Work",
+        "other-pubs": "Other Publications and Creative Work",
+        "grants": "Grants and Fellowships",
+        "awards": "Awards and Honors",
+        "conferences": "Conferences",
+        "conference-participation": "Conference Participation",
+        "service": "Service",
+        "service-department": "Department Service",
+        "service-college": "College Service",
+        "service-University": "University Service",
+        "service-field": "Service to the Field",
+        "guidance": "Student Guidance and Mentoring",
+        "memberships": "Professoinal Memberships",
+        "software": "Software",
+        "languages": "Coding Languages"
     },
     "labels": {
         "email": "Email",
