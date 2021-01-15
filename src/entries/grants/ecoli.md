@@ -3,7 +3,7 @@ title: Use of Interactive Data Visualization Modeling in Determining the Optimal
 PI: Mete Kok, Nanette Van Loon, Christopher Stein; all of Borough of Manhattan Community College
 Agency: City University of New York
 Type: CUNY Community College Collaborative Incentive Research Grant Program
-Grant Period: 2006
+Period: 2006
 Award: $34,000
 start: 2006-01-01
 end: 2006-12-30

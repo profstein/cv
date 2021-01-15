@@ -3,8 +3,8 @@ title: Collaborative Curriculum
 PI: Mahatapa Palit, Christopher Stein; both of Borough of Manhattan Community College, CUNY
 Agency: BMCC
 Type: Faculty Development Grant
-Grant Period: August 2005–July 2007
-Award Amount: $6,000
+Period: August 2005–July 2007
+Award: $6,000
 start: 2005-08-01
 end: 2007-07-01
 ---

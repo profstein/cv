@@ -5,6 +5,7 @@ Directors: Mete Kok, Christopher Stein; Borough of Manhattan Community College, 
 Agency: U.S. Department of Education
 Type: Hispanic Serving Institutions–STEM; Title III, Part F
 Award: $6,000,000
+Period: Fall 2015–Fall 2021
 start: 2016-09-01
 end: 2021-09-20
 ---

@@ -3,7 +3,7 @@ title: Improving Student Learning through the Use of 3D Simulation Activities an
 PI: Jody Culkin, MPS; Christopher Stein, MPS; both of Borough of Manhattan Community College, CUNY
 Agency: National Science Foundation, Division of Undergraduate Education
 Type: Course Curriculum & Laboratory Improvement (CCLI), Adaptation and Implementation (A&I)
-Grant Period: August 2005–July 2007
+Period: August 2005–July 2007
 Award: $107,586
 start: 2005-08-01
 end: 2007-07-30

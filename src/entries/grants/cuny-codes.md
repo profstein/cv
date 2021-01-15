@@ -4,6 +4,7 @@ PI: Christopher Stein
 Agency: CUNY Continuing Education and Workforce Programs with funding from NYS Department of Labor
 Type: CUNYCodes
 Award: $21,653
+Period: Fall 2016–Spring 2017
 start: 2016-09-01
 end: 2017-06-30
 ---
