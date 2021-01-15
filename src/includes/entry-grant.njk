@@ -45,6 +45,10 @@
                 <dt>Type: </dt>
                 <dd>{{ entry.data.Type }}</span></dd>
             {% endif %}
+             {% if entry.data.Period %}
+                <dt>Duration: </dt>
+                <dd>{{ entry.data.Period }}</span></dd>
+            {% endif %}
             {% if entry.data.Award %}
                 <dt>Award: </dt>
                 <dd>{{ entry.data.Award }}</span></dd>
