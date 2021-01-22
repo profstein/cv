@@ -29,5 +29,13 @@
         * > * {
             margin-top: 1em;
         }
+
+        li{
+            list-style-type: disc;
+            li{
+                margin-left: 2rem;
+                list-style-type: circle;
+            }
+        }
     }
 }

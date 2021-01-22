@@ -47,7 +47,7 @@ module.exports = function (config) {
     config.addLayoutAlias('resume', 'resume.njk')
 
     // Collections
-    const collections = ['work', 'education','teaching','appointments','publications','grants','awards']
+    const collections = ['work', 'education','teaching','appointments','publications','grants','awards','serviceDepartment','serviceCollege','serviceUniversity','serviceField','presentations']
     collections.forEach((name) => {
         config.addCollection(name, function (collection) {
             const folderRegex = new RegExp(`\/${name}\/`)

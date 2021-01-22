@@ -49,9 +49,26 @@ layout: base
             {% include "entrylist-grant.njk" %}
         </section>
 
-         <section class="section" id="section-experience">
-            <h2 class="section__title">{{ strings.titles.experience }}</h2>
-            {% set entries = collections.work %}
+         <section class="section" id="section-service">
+            <h2 class="section__title">{{ strings.titles.service }}</h2>
+
+            <h3 class="section__subtitle">{{strings.titles.serviceDepartment}}</h3>
+            {% set entries = collections.serviceDepartment %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist.njk" %}
+
+            <h3 class="section__subtitle">{{strings.titles.serviceCollege}}</h3>
+            {% set entries = collections.serviceCollege %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist.njk" %}
+
+            <h3 class="section__subtitle">{{strings.titles.serviceUniversity}}</h3>
+            {% set entries = collections.serviceUniversity %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist.njk" %}
+
+            <h3 class="section__subtitle">{{strings.titles.serviceField}}</h3>
+            {% set entries = collections.serviceField %}
             {% set microformat = "p-experience" %}
             {% include "entrylist.njk" %}
         </section>
