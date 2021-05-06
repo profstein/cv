@@ -1,0 +1,46 @@
+<article class="entry presentation">
+    <div class="entry__header">
+        <h3 class="entry__title p-name">{{ entry.data.title }}</h3>
+        
+        <p class="entry__time">
+            <time class="dt-start" datetime="{{ entry.data.date | dateToFormat("yyyy-MM-dd") }}">
+                {# {{ entry.data.date | dateToLocale(DateTime.DATE_FULL) }} #}
+                {# {{ entry.data.date | dateToLocale("DateTime.DATE_FULL") }} #}
+                {{ entry.data.date | dateToFormat("MMMM d, yyyy") }}
+                
+            </time>
+        </p>
+        <dl>
+            
+            {% if entry.data.event %}
+                <dt>Event: </dt>
+                {% if entry.data.eventLink %}
+                    <dd><a href="{{ entry.data.eventLink }}" class="p-name u-url" target="_blank" rel="noopener"><span class="p-name">{{ entry.data.event }}</span></a></dd>
+                {% else %}
+                    <span class="p-name"><dd>{{ entry.data.event }}</span></dd>
+                {% endif %}
+            {% endif %}
+
+            {% if entry.data.eventType %}
+                <dt>Type: </dt>
+                <dd>{{ entry.data.eventType }}</dd>
+            {% endif %}
+
+            {% if entry.data.presenters %}
+                <dt>Presenters: </dt>
+                <dd>{{ entry.data.presenters }}</dd>
+            {% endif %}
+
+            {% if entry.data.presentationLink %}
+                <dt>Link: </dt>
+                <dd><a href="{{ entry.data.presentationLink }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">view presentation on event site</a></dd>
+            {% endif %}
+        </dl>
+    </div>
+    
+    {% if entry.templateContent %}
+        <div class="entry__content p-summary">
+            {{ entry.templateContent | safe }}
+        </div>
+    {% endif %}
+</article>

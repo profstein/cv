@@ -49,6 +49,13 @@ layout: base
             {% include "entrylist-grant.njk" %}
         </section>
 
+        <section class="section" id="section-presentations">
+            <h2 class="section__title">{{strings.titles.presentations}}</h2>
+            {% set entries = collections.presentations %}
+            {% set microformat = "p-experience" %}
+            {% include "entrylist-pres.njk" %}
+        </section>
+
          <section class="section" id="section-service">
             <h2 class="section__title">{{ strings.titles.service }}</h2>
 
