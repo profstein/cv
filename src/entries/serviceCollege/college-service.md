@@ -23,7 +23,7 @@ organization: Borough of Manhattan Community College
 * **Connect2Success (Starfish) Committee**, Fall 2016–present
 * **Technology Fee Committee**, Spring 2019-Spring 2012, Spring 2015–present
 * **BMCC Technology Advisory Board**, Fall 2016-present
-* AES Internal Review Committee, Fall 2016–Summer 2017
+* **AES Internal Review Committee**, Fall 2016–Summer 2017
 * **Center for Workforce Development’s Technology Advisory Group**, Fall2016-Spring 2017
 * **BMCC Technology Day Planning Committee:** 2009, 2010, 2011, 2012, 2016, 2017
 * **Search Committees**
