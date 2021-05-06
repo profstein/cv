@@ -11,6 +11,12 @@ module.exports = {
         )
     },
 
+    dateToLocale: function (date, format) {
+        return DateTime.fromJSDate(date, { zone: 'utc' }).toLocaleString(
+            Object(format)
+        )
+    },
+
     dateToISO: function (date) {
         return DateTime.fromJSDate(date, { zone: 'utc' }).toISO({
             includeOffset: false,
