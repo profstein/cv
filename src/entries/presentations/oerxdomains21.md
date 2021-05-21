@@ -12,7 +12,7 @@ This session discusses how New York City College of Technology (City Tech) and t
 
 It’s open source. It was dreamed up over a decade ago at CUNY and continues to be maintained there. What’s more, it’s freely available to anyone else who wants to implement it. It’s just another brick in the open educational infrastructure Wall brought to you by the largest, most diverse urban college system in the USA!
 
-### Additional Links
+#### Additional Links
 
 * [City Tech OpenLab](https://openlab.citytech.cuny.edu/)
 * [BMCC OpenLab](https://openlab.bmcc.cuny.edu/)
