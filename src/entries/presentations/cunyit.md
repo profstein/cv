@@ -3,7 +3,7 @@ title: "CUNY IT Conference Presentations"
 event: "CUNY IT Conference"
 eventLink: https://www.cuny.edu/about/administration/offices/cis/cuny-it-conference/
 eventType: conference
-date: 2019-12-06
+date: 2021-12-02
 ---
 
 I have presented at a number of CUNY IT Conferences. Presentations are listed below (mostly complete).
