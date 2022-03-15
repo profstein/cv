@@ -35,6 +35,10 @@
                 <dt>Link: </dt>
                 <dd><a href="{{ entry.data.presentationLink }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">view presentation on event site</a></dd>
             {% endif %}
+            {% if entry.data.slidesLink %}
+                <dt>Link: </dt>
+                <dd><a href="{{ entry.data.slidesLink }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">view presentation slides</a></dd>
+            {% endif %}
         </dl>
     </div>
     
