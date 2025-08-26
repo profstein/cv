@@ -4,8 +4,8 @@ start: 2008-09-01
 organization: City University of New York
 ---
 
-* **CUNY Committee on Academic Technology**, Fall 2008-present
-    * CUNY Academic Commons Subcommittee, Fall 2009-Fall 2020
+* **CUNY Committee on Academic Technology**, Fall 2008-Spring 2025
+    * **CUNY Academic Commons Subcommittee**, Fall 2009-Fall 2020
     * **Research and Development Group Subcommittee**, Fall 2010–Fall 2012
 * **CUNY Academic Commons**, 2009-present, Commons Development Team member
     * Served as Director of User Experience 2015-present

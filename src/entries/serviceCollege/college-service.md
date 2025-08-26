@@ -5,7 +5,7 @@ organization: Borough of Manhattan Community College
 ---
 
 * **BMCC OpenLab**, 2017-present, *Director*
-* **BMCC Academic Senate**, Fall 2015-present, *ex-officio member*
+* **BMCC Academic Senate**, Fall 2022–Spring 2024, *chair*; Fall 2015-Spring 2024, *ex-officio member*
 * **BMCC Personnel and Budget Committee**, Fall 2015-present, *ex-officio member*
 * **Curriculum Committee of the Academic Senate**, Fall 2015-present, *member*
     * 2016-present, *Secretary*
@@ -21,12 +21,15 @@ organization: Borough of Manhattan Community College
     * Planned, wrote and executed funding requests and research reports
     * Perkins Advisory Board Member 
 * **Connect2Success (Starfish) Committee**, Fall 2016–present
-* **Technology Fee Committee**, Spring 2019-Spring 2012, Spring 2015–present
-* **BMCC Technology Advisory Board**, Fall 2016-present
+* **Technology Fee Committee**, Spring 2019-Spring 2012, Spring 2015–Spring 2024
+* **BMCC Technology Advisory Board**, Fall 2016-Spring 2022
 * **AES Internal Review Committee**, Fall 2016–Summer 2017
-* **Center for Workforce Development’s Technology Advisory Group**, Fall2016-Spring 2017
+* **Center for Workforce Development’s Technology Advisory Group**, Fall2016-Spring 2017, Spring 2025-present
 * **BMCC Technology Day Planning Committee:** 2009, 2010, 2011, 2012, 2016, 2017
 * **Search Committees**
+    * Provost and Senior Vice President for Academic Affairs (Spring 2025 and Fall 2025)
+    * Associate Provost (Spring 2023)
+    * Vice President for IT (Fall 2023)
     * Director of E-Learning (Spring 2017)
     * Director of User Support Services (Fall 2015) (Spring 2016)
     * Dir of Internships and Experiential Learning (Fall 2015)
